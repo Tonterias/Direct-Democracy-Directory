@@ -20,7 +20,7 @@ This document will change from time to time, so check it out from time to time.
 
 ## Technical Stuff
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/) and [Jekyll Video Instructions]:(https://jekyllrb.com/tutorials/video-walkthroughs/) 
+This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/) and [Jekyll Video Instructions](https://jekyllrb.com/tutorials/video-walkthroughs/)
 
 You can find the source code for Minima at GitHub:
 [jekyll][jekyll-organization] /
