@@ -4,7 +4,7 @@
 
 layout: home
 ---
-## Direct-Democracy-Directory
+
 
 This is a comprehensive directory of direct democracy organizations. No politics, just organization and administration of references so we can find each other. We have an inclusive approach, not exclusive one.
 
