@@ -4,14 +4,9 @@ title: About
 permalink: /about/
 ---
 
-# Direct-Democracy-Directory
-
-
 ## Discussions Tab on GitHub
 
 We will use [GitHub Discussions](https://github.com/Tonterias/Direct-Democracy-Directory/discussions) to listen to your ideas about how to improve the communication between groups or about better ways to organize the directory information, communication and the relations between different nodes.
-
-This document will change from time to time, so check it out from time to time.
 
 ## Technical Stuff
 
