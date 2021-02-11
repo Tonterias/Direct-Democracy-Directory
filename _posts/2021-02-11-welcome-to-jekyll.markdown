@@ -8,8 +8,11 @@ categories: jekyll update
 # Partido raro
 
 Website:    [www.partidoraro.com](https://www.partidoraro.com)
+
 Location:   Spain
+
 Email:      raroraroraro2018@gmail.com
+
 Twitter:    @partidoraro
 
 
