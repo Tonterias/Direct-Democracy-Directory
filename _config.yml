@@ -21,8 +21,9 @@
 title: Direct Democracy Directory
 email: raroraroraro2018@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-This is a comprehensive directory of direct democracy organizations.
-No politics, just organization and administration of references so we can find and meet with each other.
+  This is a comprehensive directory of direct democracy organizations.
+  No politics, just organization and administration of references so we can
+  find and meet with each other.
 baseurl: "Direct-Democracy-Directory" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
